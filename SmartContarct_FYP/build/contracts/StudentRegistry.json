@@ -22428,12 +22428,12 @@
     "11155111": {
       "events": {},
       "links": {},
-      "address": "0x8616532d2Bc592E3115c18c7e1d29E6f88727dAA",
-      "transactionHash": "0xd9bf55be4a4eafc4058a4083b2d01be5d1356d76e25db8ee67ba654e49b21341"
+      "address": "0xcA7C1b61279d2682C68edCe7Aaa78947e59C5768",
+      "transactionHash": "0x0f4a356751732c79d4b757d47caaa06b71de09b70eaf7af2a24307517e27939f"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2024-01-19T17:52:18.485Z",
+  "updatedAt": "2024-01-23T13:34:03.902Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
